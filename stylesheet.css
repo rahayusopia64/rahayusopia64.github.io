@@ -21,7 +21,12 @@ background: linear-gradient(to right, #f321ff, #ffeb82, #2196ff, #ee82ee);
 p {
 	font-size: 20px;
 	margin: 50px;
-	background-color : #ffdb00;
-	color: white;
+	color: yellow;
 	font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+	border-radius: 50%;
+	width : 300px;
+	height : 300px;
 }
